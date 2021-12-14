@@ -9,6 +9,7 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+/[Aa]ssets/BNG Framework/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
@@ -21,7 +22,7 @@
 
 # Visual Studio cache directory
 .vs/
-
+/[Aa]ssets/BNF Framework.meta
 # Gradle cache directory
 .gradle/
 
